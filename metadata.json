@@ -1,0 +1,5 @@
+{
+  "name": "ConveniTrend AI",
+  "description": "A dashboard analyzing convenience store food trends using Gemini AI, comparing Seven Eleven against competitors via social media data.",
+  "requestFramePermissions": []
+}
